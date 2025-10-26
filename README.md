@@ -33,6 +33,7 @@ Modèle	AUC	Précision	Rappel (fraude détectée)
   XGBoost	                0.971	    0.91	    0.88
   
   ✅ Les modèles optimisés atteignent un équilibre optimal entre sécurité et faux positifs
+  
   ✅ Les features comportementales (montant vs historique carte, séquence temporelle, jour/heure) ont eu un impact majeur
 
 ## Technologies utilisées
